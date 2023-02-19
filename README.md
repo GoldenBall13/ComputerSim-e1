@@ -1,2 +1,1 @@
-# ComputerSim-e1
-computer simulation assignment one
+# Computer Simulation Kaggle Course
